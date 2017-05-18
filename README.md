@@ -20,8 +20,8 @@ There are also free commercial services that simplify teaching with a cloud, inc
 This section aggregates publicly available educational materials that have been used in classrooms. Since all materials provided are in an "open source" format, we encourage people to contribute by improving the proposed materials or by adding new materials. The final scope is to define a standard "Cloud Computing Class" (CCC). Of course, all comments/contributions are more than welcome!
 
 * General concepts
-  * [Introduction to Cloud Computing] (https://docs.google.com/presentation/d/1MP0MNX1oLNieIzXVfjliaWlhurLi3ps_A5R-TnzSFeI/edit#slide=id.p)
-  * [Open-source Cloud Platforms] (https://docs.google.com/presentation/d/1It2Kv594Mx0kZ9qgNA1i_PiKMY9HyrrvSMnm7XzCWLc/edit#slide=id.i0)  
+  * [Introduction to Cloud Computing](https://docs.google.com/presentation/d/1MP0MNX1oLNieIzXVfjliaWlhurLi3ps_A5R-TnzSFeI/edit#slide=id.p)
+  * [Open-source Cloud Platforms](https://docs.google.com/presentation/d/1It2Kv594Mx0kZ9qgNA1i_PiKMY9HyrrvSMnm7XzCWLc/edit#slide=id.i0)  
 * OpenStack
-  * [Install and config LAMP + CMS] (https://docs.google.com/presentation/d/1MP0MNX1oLNieIzXVfjliaWlhurLi3ps_A5R-TnzSFeI/edit#slide=id.p) 
-  * [Setting up a Load Balancer] (https://docs.google.com/presentation/d/1rruNjPS95WeM_HcVm50doAJtyU1iy9NeTFaxsfmSXGo/edit#slide=id.p)
+  * [Install and config LAMP + CMS](https://docs.google.com/presentation/d/1MP0MNX1oLNieIzXVfjliaWlhurLi3ps_A5R-TnzSFeI/edit#slide=id.p) 
+  * [Setting up a Load Balancer](https://docs.google.com/presentation/d/1rruNjPS95WeM_HcVm50doAJtyU1iy9NeTFaxsfmSXGo/edit#slide=id.p)
