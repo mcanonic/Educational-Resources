@@ -25,3 +25,4 @@ This section aggregates publicly available educational materials that have been 
 * OpenStack
   * [Install and config LAMP + CMS](https://docs.google.com/presentation/d/1MP0MNX1oLNieIzXVfjliaWlhurLi3ps_A5R-TnzSFeI/edit#slide=id.p) 
   * [Setting up a Load Balancer](https://docs.google.com/presentation/d/1rruNjPS95WeM_HcVm50doAJtyU1iy9NeTFaxsfmSXGo/edit#slide=id.p)
+  * [Command-line client](https://docs.google.com/presentation/d/17d5eQB81B97SvkVHX24gnJKyFV51PwO8fBbVT8PGS-k/edit?usp=sharing)
